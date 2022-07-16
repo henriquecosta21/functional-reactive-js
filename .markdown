@@ -1,0 +1,1 @@
+# Annotations and code examples about functional and reactive programming using javascript/typescript language.
